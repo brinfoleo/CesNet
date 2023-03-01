@@ -1,0 +1,225 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|CESNet 3]
+Icon1=CESNet.exe
+Title1=CESNet 3
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Cesnet2013
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+aunzip32.dll=
+azip32.dll=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Arquivos de programas\Microsoft Office\OFFICE11\EXCEL.EXE=
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\dao360.dll=
+C:\Compartilhada\Programas\CESNet_3.0.x\CESNet\AUNZIP32.DLL=
+C:\Compartilhada\Programas\CESNet_3.0.x\CESNet\AZIP32.DLL=
+C:\Arquivos de programas\Banco Imobiliário Online\MSWINSCK.OCX=
+C:\Arquivos de programas\Microsoft Office\Office\EXCEL9.OLB=
+C:\WINDOWS\system32\dao360.dll=
+C:\Arquivos de programas\Microsoft Office\OFFICE11\MSWORD.OLB=
+C:\WINDOWS\system32\AUNZIP32.DLL=
+C:\WINDOWS\system32\AZIP32.DLL=
+C:\Arquivos de programas\Arquivos comuns\System\ado\msadox.dll=
+C:\Arquivos de programas\Arquivos comuns\System\ado\msadomd.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMCT332.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\scrrun.dll=
+C:\WINDOWS\system32\TABCTL32.OCX=
+C:\WINDOWS\system32\MSWINSCK.OCX=
+C:\WINDOWS\system32\COMCTL32.OCX=
+C:\WINDOWS\system32\MSCOMCT2.OCX=
+C:\WINDOWS\system32\COMDLG32.OCX=
+C:\WINDOWS\system32\MSFLXGRD.OCX=
+C:\WINDOWS\system32\MSMASK32.OCX=
+C:\WINDOWS\system32\msstdfmt.dll=
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+c:\compartilhada\programas\cesnet_3.0.x\cesnet\azip32.dll=
+c:\compartilhada\programas\cesnet_3.0.x\cesnet\aunzip32.dll=
+c:\documents and settings\leonardo\desktop\cesnet\cesnet.exe=
+c:\documents and settings\leonardo\desktop\cesnet_2011-v.5.0.12\cesnet.exe=
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\COMCTL32.OCX=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\Arquivos de programas\Arquivos comuns\DESIGNER\MSDERUN.DLL=Yes
+C:\Arquivos de programas\Microsoft Office\OFFICE11\MSWORD.OLB=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Arquivos de programas\Microsoft Office\OFFICE11\EXCEL.EXE=Yes
+C:\WINDOWS\system32\msjet40.dll=Yes
+C:\WINDOWS\system32\msjter40.dll=Yes
+C:\WINDOWS\system32\msjint40.dll=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\mswstr10.dll=Yes
+C:\WINDOWS\system32\mswdat10.dll=Yes
+C:\WINDOWS\system32\msrd2x40.dll=Yes
+C:\WINDOWS\system32\msrd3x40.dll=Yes
+C:\WINDOWS\system32\msrepl40.dll=Yes
+C:\WINDOWS\system32\msjtes40.dll=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\Arquivos de programas\Arquivos comuns\System\ado\msadomd.dll=Yes
+C:\Arquivos de programas\Arquivos comuns\System\ado\msadox.dll=Yes
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\dao360.dll=Yes
+C:\Documents and Settings\Leonardo\Desktop\CESNet.exe=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\Documents and Settings\Leo\Desktop\CESNet.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\dao360.dll=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Office\OFFICE11\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Compartilhada\Programas\CESNet_3.0.x\CESNet\AZIP32.DLL=$(WinSysPath)
+C:\Compartilhada\Programas\CESNet_3.0.x\CESNet\AUNZIP32.DLL=$(AppPath)
+C:\Arquivos de programas\Microsoft Office\Office\EXCEL9.OLB=$(WinSysPath)
+C:\Arquivos de programas\Banco Imobiliário Online\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\system32\dao360.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Arquivos de programas\Microsoft Office\OFFICE11\MSWORD.OLB=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Documents and Settings\Leo\Desktop\CESNet_v.4.0.0\CESNet.exe=$(AppPath)
+C:\Documents and Settings\Leonardo\Desktop\CESNet\CESNet.exe=$(AppPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\AZIP32.DLL=$(WinSysPath)
+C:\WINDOWS\system32\AUNZIP32.DLL=$(AppPath)
+C:\Documents and Settings\Leo\Desktop\iCESNet2012\CESNet.exe=$(AppPath)
+C:\Documents and Settings\Net.Usu\Desktop\CESNet=$(AppPath)
+C:\Documents and Settings\Net.Usu\Desktop\cesnet\CESNet.exe=$(AppPath)
+C:\Documents and Settings\Net.Usu\Desktop\CESNet.exe=$(AppPath)
+C:\Arquivos de programas\Arquivos comuns\System\ado\msadomd.dll=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\System\ado\msadox.dll=$(WinSysPath)
+C:\Documents and Settings\Leonardo\Desktop\CESNet-Desktop.exe=$(AppPath)
+C:\Dropbox\Dropbox\Programas\CESNet\CESNet\CESNet.exe=$(AppPath)
+C:\Documents and Settings\vmUsuario\Desktop\CESNet.exe=$(AppPath)
+C:\Documents and Settings\Leonardo\Desktop\CESNet.exe=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Leo\Desktop\CESNet.exe=Yes
+C:\Arquivos de programas\Microsoft Office\OFFICE11\EXCEL.EXE=No
+C:\Compartilhada\Programas\CESNet_3.0.x\CESNet\AUNZIP32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Documents and Settings\Leo\Desktop\CESNet_v.4.0.0\CESNet.exe=Yes
+C:\Documents and Settings\Leonardo\Desktop\CESNet\CESNet.exe=Yes
+C:\WINDOWS\system32\AUNZIP32.DLL=Yes
+C:\Documents and Settings\Leo\Desktop\iCESNet2012\CESNet.exe=Yes
+C:\Documents and Settings\Net.Usu\Desktop\CESNet=No
+C:\Documents and Settings\Net.Usu\Desktop\cesnet\CESNet.exe=Yes
+C:\Documents and Settings\Net.Usu\Desktop\CESNet.exe=Yes
+C:\Documents and Settings\Leonardo\Desktop\CESNet-Desktop.exe=Yes
+C:\Dropbox\Dropbox\Programas\CESNet\CESNet\CESNet.exe=Yes
+C:\Documents and Settings\vmUsuario\Desktop\CESNet.exe=Yes
+C:\Documents and Settings\Leonardo\Desktop\CESNet.exe=Yes
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=1.44 MB
+Title=CESNet - versão 2013
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=CESNet
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|CESNet]
+Icon1=CESNet.exe
+Title1=CESNet
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\Cesnet2013
+ProjectFolder=C:\Dropbox\Dropbox\Programas\CESNet\CESNet-2013
+ServerSideCab=
+File1=C:\Cesnet2013\setup.exe
+File2=C:\Cesnet2013\Setup.Lst
+File3=C:\Cesnet2013\CESNet.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

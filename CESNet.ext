@@ -1,0 +1,1 @@
+DRIVER=Firebird/InterBase(r) driver; UID=SYSDBA; PWD=masterkey;DBNAME=127.0.0.1:C:\Documents and Settings\Leonardo\Desktop\CESNet\BD_CES\CES SENAI\SACES\SACE - CES SENAI\BANCO\SACES.FDB
