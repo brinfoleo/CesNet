@@ -1,0 +1,17 @@
+Line 183: Class MSComctlLib.Toolbar of control Tb_Menu was not a loaded control class.
+Line 227: Class MSComctlLib.ImageList of control IL_Menu was not a loaded control class.
+Line 189: The property name _ExtentX in Tb_Menu is invalid.
+Line 190: The property name _ExtentY in Tb_Menu is invalid.
+Line 191: The property name ButtonWidth in Tb_Menu is invalid.
+Line 192: The property name ButtonHeight in Tb_Menu is invalid.
+Line 193: The property name AllowCustomize in Tb_Menu is invalid.
+Line 195: The property name ImageList in Tb_Menu is invalid.
+Line 196: The property name _Version in Tb_Menu is invalid.
+Line 226: The property name Buttons in Tb_Menu is invalid.
+Line 230: The property name _ExtentX in IL_Menu is invalid.
+Line 231: The property name _ExtentY in IL_Menu is invalid.
+Line 233: The property name ImageWidth in IL_Menu is invalid.
+Line 234: The property name ImageHeight in IL_Menu is invalid.
+Line 235: The property name MaskColor in IL_Menu is invalid.
+Line 236: The property name _Version in IL_Menu is invalid.
+Line 367: The property name Images in IL_Menu is invalid.

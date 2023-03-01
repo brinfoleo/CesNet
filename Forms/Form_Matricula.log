@@ -1,0 +1,13 @@
+Line 29: Class MSMask.MaskEdBox of control MebMatricula was not a loaded control class.
+Line 52: Class TabDlg.SSTab of control SST_Matricula was not a loaded control class.
+Line 129: Class MSFlexGridLib.MSFlexGrid of control MSFG_HstProvas was not a loaded control class.
+Line 205: Class MSFlexGridLib.MSFlexGrid of control MSFG_HstDisciplinas was not a loaded control class.
+Line 318: Class MSMask.MaskEdBox of control Meb_DtConclusao was not a loaded control class.
+Line 466: Class MSComCtl2.DTPicker of control dtpInicio was not a loaded control class.
+Line 623: Class MSComCtl2.DTPicker of control dtpInicio00 was not a loaded control class.
+Line 703: Class TabDlg.SSTab of control sstCurso was not a loaded control class.
+Line 768: Class MSMask.MaskEdBox of control Meb_DtRenovacao was not a loaded control class.
+Line 835: Class MSMask.MaskEdBox of control Meb_DtRetorno was not a loaded control class.
+Line 935: Class MSComCtl2.DTPicker of control DTP_ValidadeCard was not a loaded control class.
+Line 1019: Class MSComCtl2.DTPicker of control DTP_TrancaGeral was not a loaded control class.
+Line 1067: Class MSFlexGridLib.MSFlexGrid of control MSFG_EnsinoGeral was not a loaded control class.
