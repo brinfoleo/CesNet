@@ -1,0 +1,4 @@
+Line 26: Class TabDlg.SSTab of control SST_EmpLivro was not a loaded control class.
+Line 66: Class MSFlexGridLib.MSFlexGrid of control MSFG_FichaEmp was not a loaded control class.
+Line 94: Class MSMask.MaskEdBox of control Meb_Matricula was not a loaded control class.
+Line 170: Class MSFlexGridLib.MSFlexGrid of control MSFG_Livros was not a loaded control class.

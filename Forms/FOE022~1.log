@@ -1,0 +1,10 @@
+Line 66: Class MSFlexGridLib.MSFlexGrid of control MSFG_Nomes was not a loaded control class.
+Line 10: Property Icon in Form_Materia had an invalid file reference.
+Line 72: The property name _ExtentX in MSFG_Nomes is invalid.
+Line 73: The property name _ExtentY in MSFG_Nomes is invalid.
+Line 74: The property name _Version in MSFG_Nomes is invalid.
+Line 75: The property name Cols in MSFG_Nomes is invalid.
+Line 76: The property name FixedCols in MSFG_Nomes is invalid.
+Line 77: The property name ScrollBars in MSFG_Nomes is invalid.
+Line 78: The property name SelectionMode in MSFG_Nomes is invalid.
+Line 79: The property name FormatString in MSFG_Nomes is invalid.
